@@ -1,5 +1,5 @@
 # HolyWar
-Holy War Football video game
+Holy War Football is a competitive 2 player turn based video game which mimicks the strategy behind football in a chess-influenced way. It pits the Utah Utes against the BYU Cougars in the greatest rivalry in sports - The Holy War.
 
 ## Rules to the game
 
