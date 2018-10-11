@@ -26,18 +26,18 @@ Players can agree to a timeout if you need to step away shortly.
     [1] Runningback (RB)
     [2] Wide Receiver (WR)
     [1] Tight End (TE)
-    [3] Offensive Lineman (OL)
+    [3] Guard (G)
 
     DEFENSIVE PLAYERS
     [2] Safety (S)
     [3] Cornerback (CB)
-    [3] Defensive Lineman (DL)
+    [3] Tackle (T)
 
 ### SPEEDS
 
 Each player on the field has designated movement speeds that you have some control over choosing. This speed limits each player to the amount of squares they can run in one turn.
 
-Movement speeds are as follows (red indicates player position, yellow indicates potential movement):
+Movement speeds are as follows:
 
     1+
     2+
