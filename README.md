@@ -13,9 +13,13 @@ There are 10 downs per quarter, totalling 40 per game.
 
 When game reaches half-time, play is dead, and new possession begins at beginning of 3rd quarter (player who didn't get the ball to begin the game gets it here).
 
-Play clock is set to 30 seconds each time you start a new play (5 yard penalty is enforced).
+#### Play clock
 
-Players can agree to a timeout if you need to step away shortly.
+You're given 30 seconds to setup your formation at the beginning of the down (5 yard penalty is enforced), and 10 seconds for every turn after snap.
+
+#### Timeout
+
+You're alotted one 30 second timeout per half which can be used before snap.
 
 ### PLAYERS
 
