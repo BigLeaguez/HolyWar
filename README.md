@@ -1,6 +1,8 @@
 # HolyWar
 Holy War Football is a competitive 2 player turn based video game which mimicks the strategy behind football in a chess-influenced way. It pits the Utah Utes against the BYU Cougars in the greatest rivalry in sports - The Holy War.
 
+## Teams
+
 ### Utah Utes
 
 #### Normal
@@ -13,9 +15,9 @@ Holy War Football is a competitive 2 player turn based video game which mimicks 
 
 #### Whiteout
 
-## Rules to the game
+## Rules
 
-### BASICS
+### Basics
 
 The aim of the game is to score more points and win the game by using strategic formations and executing plays to gain yards. The field is a 24x13 checkered board, with each square measuring 5 yards. You have 8 players to place in formations of your choosing on the field for both offense and defense.
 
@@ -25,11 +27,11 @@ There are 10 downs per quarter, totalling 40 per game.
 
 When game reaches half-time, play is dead, and new possession begins at beginning of 3rd quarter (player who didn't get the ball to begin the game gets it here).
 
-#### Play clock
+### Play clock
 
 You're given 30 seconds to setup your formation at the beginning of the down (5 yard penalty is enforced), and 10 seconds for every turn after snap.
 
-#### Timeout
+### Timeout
 
 You're alotted one 30 second timeout per half which can be used before snap.
 
