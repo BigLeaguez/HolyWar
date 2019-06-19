@@ -5,15 +5,11 @@ Holy War Football is a competitive 2 player turn based video game which mimicks 
 
 ### Utah Utes
 
-#### Normal
-
-#### Blackout
+Jersey styles include normal (red) and blackout.
 
 ### BYU Cougars
 
-#### Normal
-
-#### Whiteout
+Jersey styles include normal (blue) and whiteout.
 
 ## Rules
 
