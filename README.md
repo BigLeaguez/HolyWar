@@ -54,17 +54,32 @@ Each player on the field has designated movement speeds that you have some contr
 Movement speeds are as follows (same for offense and defense):
 
     [x3] 1+
-    [-][M][-]
-    [M][P][M]
-    [-][M][-]
+    [ ][x][ ]
+    [x][P][x]
+    [ ][x][ ]
+    
     [x1] 2+
-    [-][-][M][-][-]
-    [-][M][M][M][-]
-    [M][M][P][M][M]
-    [-][M][M][M][-]
-    [-][-][M][-][-]
+    [ ][ ][x][ ][ ]
+    [ ][x][x][x][ ]
+    [x][x][P][x][x]
+    [ ][x][x][x][ ]
+    [ ][ ][x][ ][ ]
+    
     [x2] 2*
+    [x][x][x][x][x]
+    [x][x][x][x][x]
+    [x][x][P][x][x]
+    [x][x][x][x][x]
+    [x][x][x][x][x]
+    
     [x2] 3+
+    [ ][ ][ ][x][ ][ ][ ]
+    [ ][ ][x][x][x][ ][ ]
+    [ ][x][x][x][x][x][ ]
+    [x][x][x][P][x][x][x]
+    [ ][x][x][x][x][x][ ]
+    [ ][ ][x][x][x][ ][ ]
+    [ ][ ][ ][x][ ][ ][ ]
 
 (+ signifies movements only to squares directly touching the square the player is on, whereas * signifies movements to diagonally touching squares.)
 
