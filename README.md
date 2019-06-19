@@ -54,7 +54,15 @@ Each player on the field has designated movement speeds that you have some contr
 Movement speeds are as follows (same for offense and defense):
 
     [x3] 1+
+    [-][M][-]
+    [M][P][M]
+    [-][M][-]
     [x1] 2+
+    [-][-][M][-][-]
+    [-][M][M][M][-]
+    [M][M][P][M][M]
+    [-][M][M][M][-]
+    [-][-][M][-][-]
     [x2] 2*
     [x2] 3+
 
