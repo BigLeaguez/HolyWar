@@ -36,29 +36,31 @@ You're alotted one 30 second timeout per half which can be used before snap.
 (Number in square brackets signifies quantity):
 
     OFFENSIVE PLAYERS
-    [1] Quarterback (QB)
-    [1] Runningback (RB)
-    [2] Wide Receiver (WR)
-    [1] Tight End (TE)
-    [3] Guard (G)
+    [x1] Quarterback (QB)
+    [x1] Runningback (RB)
+    [x2] Wide Receiver (WR)
+    [x1] Tight End (TE)
+    [x3] Guard (G)
 
     DEFENSIVE PLAYERS
-    [2] Safety (S)
-    [3] Cornerback (CB)
-    [3] Tackle (T)
+    [x2] Safety (S)
+    [x3] Cornerback (CB)
+    [x3] Tackle (T)
 
 ### SPEEDS
 
 Each player on the field has designated movement speeds that you have some control over choosing. This speed limits each player to the amount of squares they can run in one turn.
 
-Movement speeds are as follows (Number in square brackets signifies quantity and is the same for offense and defense):
+Movement speeds are as follows (same for offense and defense):
 
-    [3] 1+
-    [1] 2+
-    [2] 2*
-    [2] 3+
+    [x3] 1+
+    [x1] 2+
+    [x2] 2*
+    [x2] 3+
 
-(+ signifies movements only to squares directly touching the square the player is on, whereas * signifies movements to diagonally touching squares).
+(+ signifies movements only to squares directly touching the square the player is on, whereas * signifies movements to diagonally touching squares.)
+
+The three Guards on offense and 3 Tackles on defense always have the 1+ movement speeds. All other speeds can be assigned to the other players as desired. E.g. the offensive player statistics can look like Guards = 1+, QB = 2+, RB = 2*, TE = 2* and WRs = 3+.
 
 The QB has a throwing radius of 6 squares, meaning it takes one turn for the ball to travel 6 direct squares if thrown straight.
 
